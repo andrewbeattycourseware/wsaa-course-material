@@ -17,7 +17,8 @@ page = requests.get(url)
 
 doc = parseString(page.content)
 # check it works
-print (doc.toprettyxml(), end='') #output to console
+# newl='' gets rid of the new lines when printing
+print (doc.toprettyxml(newl='')) #output to console
 
 # if I want to store the xml in a file
 with open("trainxml.xml","w") as xmlfp:
