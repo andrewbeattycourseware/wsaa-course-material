@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Topic-01-introduction",
+        "path": "code/Topic-01-introduction",
+        "sha": "ecbc0b9568a112f5b50ffb9ba38054c46b45abe1",
+        "size": 0,
+        "url": "https://api.github.com/repos/andrewbeattycourseware/wsaa-course-material/contents/code/Topic-01-introduction?ref=main",
+        "html_url": "https://github.com/andrewbeattycourseware/wsaa-course-material/tree/main/code/Topic-01-introduction",
+        "git_url": "https://api.github.com/repos/andrewbeattycourseware/wsaa-course-material/git/trees/ecbc0b9568a112f5b50ffb9ba38054c46b45abe1",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/andrewbeattycourseware/wsaa-course-material/contents/code/Topic-01-introduction?ref=main",
+            "git": "https://api.github.com/repos/andrewbeattycourseware/wsaa-course-material/git/trees/ecbc0b9568a112f5b50ffb9ba38054c46b45abe1",
+            "html": "https://github.com/andrewbeattycourseware/wsaa-course-material/tree/main/code/Topic-01-introduction"
+        }
+    },
+    {
+        "name": "Topic02-datastructures",
+        "path": "code/Topic02-datastructures",
+        "sha": "a8d46caed944cf0f28d94a1789269ddeb25fb610",
+        "size": 0,
+        "url": "https://api.github.com/repos/andrewbeattycourseware/wsaa-course-material/contents/code/Topic02-datastructures?ref=main",
+        "html_url": "https://github.com/andrewbeattycourseware/wsaa-course-material/tree/main/code/Topic02-datastructures",
+        "git_url": "https://api.github.com/repos/andrewbeattycourseware/wsaa-course-material/git/trees/a8d46caed944cf0f28d94a1789269ddeb25fb610",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/andrewbeattycourseware/wsaa-course-material/contents/code/Topic02-datastructures?ref=main",
+            "git": "https://api.github.com/repos/andrewbeattycourseware/wsaa-course-material/git/trees/a8d46caed944cf0f28d94a1789269ddeb25fb610",
+            "html": "https://github.com/andrewbeattycourseware/wsaa-course-material/tree/main/code/Topic02-datastructures"
+        }
+    },
+    {
+        "name": "Topic03-dataTransfer",
+        "path": "code/Topic03-dataTransfer",
+        "sha": "1be33456f35c5d9b2f6b78bceb90993f0ca8b865",
+        "size": 0,
+        "url": "https://api.github.com/repos/andrewbeattycourseware/wsaa-course-material/contents/code/Topic03-dataTransfer?ref=main",
+        "html_url": "https://github.com/andrewbeattycourseware/wsaa-course-material/tree/main/code/Topic03-dataTransfer",
+        "git_url": "https://api.github.com/repos/andrewbeattycourseware/wsaa-course-material/git/trees/1be33456f35c5d9b2f6b78bceb90993f0ca8b865",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/andrewbeattycourseware/wsaa-course-material/contents/code/Topic03-dataTransfer?ref=main",
+            "git": "https://api.github.com/repos/andrewbeattycourseware/wsaa-course-material/git/trees/1be33456f35c5d9b2f6b78bceb90993f0ca8b865",
+            "html": "https://github.com/andrewbeattycourseware/wsaa-course-material/tree/main/code/Topic03-dataTransfer"
+        }
+    },
+    {
+        "name": "Topic04-apis",
+        "path": "code/Topic04-apis",
+        "sha": "1edc1a4d919379ad6646006f8b811aecff799be5",
+        "size": 0,
+        "url": "https://api.github.com/repos/andrewbeattycourseware/wsaa-course-material/contents/code/Topic04-apis?ref=main",
+        "html_url": "https://github.com/andrewbeattycourseware/wsaa-course-material/tree/main/code/Topic04-apis",
+        "git_url": "https://api.github.com/repos/andrewbeattycourseware/wsaa-course-material/git/trees/1edc1a4d919379ad6646006f8b811aecff799be5",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/andrewbeattycourseware/wsaa-course-material/contents/code/Topic04-apis?ref=main",
+            "git": "https://api.github.com/repos/andrewbeattycourseware/wsaa-course-material/git/trees/1edc1a4d919379ad6646006f8b811aecff799be5",
+            "html": "https://github.com/andrewbeattycourseware/wsaa-course-material/tree/main/code/Topic04-apis"
+        }
+    }
+]
